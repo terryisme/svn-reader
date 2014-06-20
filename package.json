@@ -1,0 +1,20 @@
+{
+  "name": "svn-reader",
+  "version": "0.0.5",
+  "private": true,
+  "description": "to read svn user and acl ",
+  "keywords": [
+    "svn",
+    "passwd",
+    "authz",
+    "svn-managment"
+  ],
+  "author": "Terry Zhang <confach@gmail.com> (http://www.36sign.com)",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {},
+  "engines": {
+    "node": ">=v0.10.5"
+  }
+  
+}
